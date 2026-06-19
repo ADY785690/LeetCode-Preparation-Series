@@ -20,7 +20,7 @@ This repository documents my LeetCode and Data Structures & Algorithms journey f
 
 | Topic | Solved |
 |---------|---------|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
