@@ -2,10 +2,10 @@
 
 ## Stats
 
-* Easy Solved: 7
+* Easy Solved: 11
 * Medium Solved: 0
 * Hard Solved: 0
-* Total Solved: 7
+* Total Solved: 11
 
 ---
 
@@ -23,4 +23,7 @@
 5. Reverse Linked List (LeetCode 206)
 6. Middle of the Linked List (LeetCode 876)
 7. Linked List Cycle (LeetCode 141)
-
+8. Merge Two Sorted Lists (LeetCode 21)
+9. Remove Duplicates from Sorted List (LeetCode 83)
+10. Remove Linked List Elements (LeetCode 203)
+11. Palindrome Linked List (LeetCode 234)
